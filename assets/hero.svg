@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Mounir — Hamada / Lord1Egypt</title>
+  <desc id="desc">AI Automation and Backend Engineer. From intelligent agents to the systems underneath. Egyptian roots. Global mindset. A bespoke geometric pyramid connects to circuit traces on a dark charcoal background.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1600" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101b21"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="1080" y1="188" x2="1490" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#65e5ca" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#65e5ca" stop-opacity="0.005"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8aa3a8" stroke-opacity="0.07"/>
+    </pattern>
+    <clipPath id="panel"><rect x="1" y="1" width="1598" height="618" rx="24"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1598" height="618" rx="24" fill="url(#surface)" stroke="#2b383f" stroke-width="2"/>
+  <g clip-path="url(#panel)">
+    <rect x="1000" y="0" width="600" height="561" fill="url(#grid)"/>
+    <path d="M999.5 40V520" stroke="#28383e" stroke-opacity="0.65"/>
+    <path d="M80 562H1520" stroke="#2b383f"/>
+    <path d="M80 562H258" stroke="#ddb76a" stroke-width="2"/>
+    <path d="M80 75L92 63L104 75L92 87Z" stroke="#65e5ca" stroke-width="2"/>
+    <path d="M87 75H97M92 70V80" stroke="#65e5ca" stroke-width="1.5"/>
+    <g font-family="Liberation Mono,DejaVu Sans Mono,monospace" font-size="20" letter-spacing="2">
+      <text x="122" y="82" fill="#a7bdc4">HAMADA <tspan fill="#526872">/</tspan> <tspan fill="#65e5ca">@LORD1EGYPT</tspan></text>
+    </g>
+    <g font-family="DejaVu Sans,Arial,sans-serif" font-size="111" font-weight="700" letter-spacing="-4">
+      <text x="73" y="228" fill="#f0f5f4">MOHAMED</text>
+      <text x="73" y="345" fill="#f0f5f4">MOUNIR<tspan fill="#ddb76a">.</tspan></text>
+    </g>
+    <text x="81" y="409" fill="#65e5ca" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="1.6">AI AUTOMATION &amp; BACKEND ENGINEER</text>
+    <text x="80" y="459" fill="#a7b8c0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25">From intelligent agents to the systems underneath.</text>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1280 157L1067 460H1493L1280 157Z" fill="url(#stone)" stroke="#65e5ca" stroke-width="2" stroke-opacity="0.8"/>
+      <path d="M1280 157V460L1184 460L1280 157L1383 460" stroke="#65e5ca" stroke-width="1.25" stroke-opacity="0.45"/>
+      <path d="M1245 207H1315M1216 247H1344M1188 287H1372M1160 327H1400M1132 367H1428M1104 407H1456" stroke="#65e5ca" stroke-width="1" stroke-opacity="0.28"/>
+      <path d="M1280 157L1378 460" stroke="#ddb76a" stroke-width="1.25" stroke-opacity="0.7"/>
+      <path d="M1280 157V108H1440V80H1520" stroke="#ddb76a" stroke-width="1.5" stroke-opacity="0.65"/>
+      <path d="M1280 108H1140V80H1065" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.35"/>
+      <path d="M1143 352H1080L1040 312V230H1080" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.45"/>
+      <path d="M1417 352H1480L1520 312V230H1480" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.45"/>
+      <path d="M1067 460V488H1130V514H1210" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.65"/>
+      <path d="M1493 460V488H1430V514H1350" stroke="#ddb76a" stroke-width="1.5" stroke-opacity="0.7"/>
+      <path d="M1168 460V489H1215M1280 460V514M1390 460V489H1345" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.35"/>
+      <path d="M1104 407H1040M1456 407H1520" stroke="#65e5ca" stroke-width="1.5" stroke-opacity="0.3"/>
+      <path d="M1160 327H1125V274M1400 327H1435V274" stroke="#65e5ca" stroke-width="1" stroke-opacity="0.28"/>
+      <path d="M1254 362L1280 336L1306 362L1280 388Z" fill="#12292b" stroke="#65e5ca" stroke-width="1.5"/>
+      <path d="M1271 362H1289M1280 353V371" stroke="#65e5ca" stroke-width="1.5"/>
+    </g>
+    <g fill="#101b21" stroke-width="1.5">
+      <circle cx="1065" cy="80" r="4" stroke="#65e5ca"/>
+      <circle cx="1520" cy="80" r="4" stroke="#ddb76a"/>
+      <circle cx="1080" cy="230" r="4" stroke="#65e5ca"/>
+      <circle cx="1480" cy="230" r="4" stroke="#65e5ca"/>
+      <circle cx="1040" cy="407" r="4" stroke="#65e5ca"/>
+      <circle cx="1520" cy="407" r="4" stroke="#65e5ca"/>
+      <circle cx="1210" cy="514" r="4" stroke="#65e5ca"/>
+      <circle cx="1350" cy="514" r="4" stroke="#ddb76a"/>
+    </g>
+    <rect x="1274" y="151" width="12" height="12" rx="2" fill="#ddb76a"/>
+    <rect x="1063" y="456" width="8" height="8" rx="1" fill="#65e5ca"/>
+    <rect x="1489" y="456" width="8" height="8" rx="1" fill="#65e5ca"/>
+    <g fill="#79909a" font-family="Liberation Mono,DejaVu Sans Mono,monospace" font-size="17" letter-spacing="2.2">
+      <text x="80" y="596">EGYPTIAN ROOTS. GLOBAL MINDSET.</text>
+      <text x="1520" y="596" text-anchor="end">CODE / SYSTEMS / SILICON</text>
+    </g>
+  </g>
+</svg>
