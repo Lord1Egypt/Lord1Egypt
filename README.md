@@ -7,7 +7,7 @@
   <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
   <a href="#the-wider-ecosystem">The ecosystem</a> &nbsp;·&nbsp;
   <a href="#engineering-toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Lord1Egypt?tab=repositories">All repositories ↗</a>
+  <a href="https://github.com/Lord1Egypt?tab=repositories">All repositories</a>
 </p>
 
 ### From intelligent agents to the systems underneath.
@@ -29,14 +29,14 @@ A cross-section of the projects I build and maintain.
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/icons/memory.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/ThothMemory">ThothMemory ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/ThothMemory">ThothMemory</a></h3>
       <p><b>Continuity for AI coding agents.</b></p>
       <p>Persistent project memory, decisions, evidence, and handoffs through MCP, with local SQLite and server-backed editions.</p>
       <p><code>Go</code> <code>MCP</code> <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/icons/registry.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/RA-Skills">RA-Skills ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/RA-Skills">RA-Skills</a></h3>
       <p><b>Agent skills, organized and searchable.</b></p>
       <p>A curated registry of community agent skills, with offline search, bundled skill folders, and Python and JavaScript tooling.</p>
       <p><code>Python</code> <code>JavaScript</code> <code>CLI</code></p>
@@ -45,14 +45,14 @@ A cross-section of the projects I build and maintain.
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/icons/container.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/ThothDock">ThothDock ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/ThothDock">ThothDock</a></h3>
       <p><b>Container workflows on Android.</b></p>
       <p>A Docker-compatible userspace engine for unrooted Android, using PRoot. Its environments share the host kernel and are not a security boundary.</p>
       <p><code>Go</code> <code>PRoot</code> <code>Android</code></p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/icons/terminal.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/AndroidThothTerm">ThothTerm Android ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/AndroidThothTerm">ThothTerm Android</a></h3>
       <p><b>A terminal that speaks your language.</b></p>
       <p>An Android terminal with real PTY sessions, extra keys, Unicode, and Arabic shaping and bidirectional text support.</p>
       <p><code>Android</code> <code>PTY</code> <code>Arabic / RTL</code></p>
@@ -61,14 +61,14 @@ A cross-section of the projects I build and maintain.
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/icons/mobile.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/PocketClaw">PocketClaw ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/PocketClaw">PocketClaw</a></h3>
       <p><b>An AI workspace in your pocket.</b></p>
       <p>An Android agent app with a Flutter interface and a PicoClaw-based Go core. Tools and the workspace run on the device; models connect remotely.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Go</code></p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/icons/language.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/Heh">Heh ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/Heh">Heh</a></h3>
       <p><b>A language built around deliberate limits.</b></p>
       <p>A programming language and Rust toolchain exploring arbitrary-precision integers, static types, and capability-based I/O.</p>
       <p><code>Rust</code> <code>Language design</code></p>
@@ -77,14 +77,14 @@ A cross-section of the projects I build and maintain.
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/icons/chip.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/KemetCore">KemetCore ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/KemetCore">KemetCore</a></h3>
       <p><b>An open-silicon laboratory.</b></p>
       <p>Hardware accelerator experiments spanning CPUs, ML, cryptography, and graphics, with Python models and RTL-to-GDSII workflows.</p>
       <p><code>SystemVerilog</code> <code>Python</code> <code>OpenROAD</code></p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/icons/blocks.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/Khnum">Khnum ↗</a></h3>
+      <h3><a href="https://github.com/Lord1Egypt/Khnum">Khnum</a></h3>
       <p><b>Memory building blocks, generated.</b></p>
       <p>A Python memory compiler for SRAM, register files, FIFOs, and ECC, with generated RTL, testbenches, and formal-verification support.</p>
       <p><code>Python</code> <code>Verilog</code> <code>FPGA / ASIC</code></p>
