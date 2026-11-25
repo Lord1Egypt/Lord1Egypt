@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="130" viewBox="0 0 1600 130" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Build thoughtfully. Verify thoroughly.</title>
+  <desc id="desc">A closing note from Mohamed Mounir, Lord1Egypt.</desc>
+  <rect x="1" y="1" width="1598" height="128" rx="18" fill="#101b21" stroke="#2b383f" stroke-width="2"/>
+  <path d="M57 65L70 52L83 65L70 78Z" stroke="#65e5ca" stroke-width="2"/>
+  <path d="M65 65H75M70 60V70" stroke="#65e5ca" stroke-width="1.5"/>
+  <text x="112" y="77" fill="#dbe7e8" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600">Build thoughtfully. <tspan fill="#65e5ca">Verify thoroughly.</tspan></text>
+  <path d="M1200 47V83" stroke="#35434a"/>
+  <text x="1538" y="74" text-anchor="end" fill="#ddb76a" font-family="Liberation Mono,DejaVu Sans Mono,monospace" font-size="24" letter-spacing="1">@LORD1EGYPT</text>
+</svg>

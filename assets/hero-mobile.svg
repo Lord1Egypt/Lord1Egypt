@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="680" viewBox="0 0 800 680" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Mounir — Hamada / Lord1Egypt</title>
+  <desc id="desc">AI Automation and Backend Engineer. From agents to infrastructure. Egyptian roots. Global mindset. Compact mobile artwork with a geometric circuit pyramid.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="800" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101b21"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8aa3a8" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="panel"><rect x="1" y="1" width="798" height="678" rx="24"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="798" height="678" rx="24" fill="url(#surface)" stroke="#2b383f" stroke-width="2"/>
+  <g clip-path="url(#panel)">
+    <rect x="608" y="0" width="192" height="290" fill="url(#grid)"/>
+    <path d="M47 72L59 60L71 72L59 84Z" stroke="#65e5ca" stroke-width="2"/>
+    <path d="M54 72H64M59 67V77" stroke="#65e5ca" stroke-width="1.5"/>
+    <text x="91" y="81" fill="#a7bdc4" font-family="Liberation Mono,DejaVu Sans Mono,monospace" font-size="26" letter-spacing="0.6">HAMADA <tspan fill="#526872">/</tspan> <tspan fill="#65e5ca">@LORD1EGYPT</tspan></text>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M695 139L637 224H753L695 139Z" stroke="#65e5ca" stroke-width="1.7" stroke-opacity="0.65"/>
+      <path d="M695 139V224M668 180H723M654 202H738" stroke="#65e5ca" stroke-width="1" stroke-opacity="0.28"/>
+      <path d="M695 139L725 224" stroke="#ddb76a" stroke-width="1.1" stroke-opacity="0.55"/>
+      <path d="M695 139V111H747M637 224V244H668M753 224V244H722" stroke="#65e5ca" stroke-width="1.2" stroke-opacity="0.4"/>
+      <path d="M637 224H620V190M753 224H770V190" stroke="#65e5ca" stroke-width="1" stroke-opacity="0.28"/>
+      <path d="M686 194L695 185L704 194L695 203Z" fill="#12292b" stroke="#65e5ca" stroke-width="1.2" stroke-opacity="0.75"/>
+    </g>
+    <rect x="691" y="135" width="8" height="8" rx="1.5" fill="#ddb76a"/>
+    <circle cx="747" cy="111" r="3" fill="#101b21" stroke="#ddb76a" stroke-width="1.3"/>
+    <g font-family="DejaVu Sans,Arial,sans-serif" font-size="97" font-weight="700" letter-spacing="-3.8" fill="#f0f5f4">
+      <text x="41" y="263">MOHAMED</text>
+      <text x="41" y="367">MOUNIR<tspan fill="#ddb76a">.</tspan></text>
+    </g>
+    <g fill="#65e5ca" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="0.8">
+      <text x="48" y="446">AI AUTOMATION</text>
+      <text x="48" y="493">&amp; BACKEND ENGINEER</text>
+    </g>
+    <text x="48" y="552" fill="#a7b8c0" font-family="DejaVu Sans,Arial,sans-serif" font-size="28">From agents to infrastructure.</text>
+    <path d="M48 610H752" stroke="#2b383f"/>
+    <path d="M48 610H196" stroke="#ddb76a" stroke-width="2"/>
+    <text x="48" y="649" fill="#91a6ae" font-family="Liberation Mono,DejaVu Sans Mono,monospace" font-size="26" letter-spacing="0.2">EGYPTIAN ROOTS. GLOBAL MINDSET.</text>
+  </g>
+</svg>
