@@ -29,9 +29,9 @@ A cross-section of the projects I build and maintain.
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/icons/memory.svg" width="28" height="28" alt="">
-      <h3><a href="https://github.com/Lord1Egypt/ThothMemory">ThothMemory</a></h3>
-      <p><b>Continuity for AI coding agents.</b></p>
-      <p>Persistent project memory, decisions, evidence, and handoffs through MCP, with local SQLite and server-backed editions.</p>
+      <h3><a href="https://github.com/Lord1Egypt/ThothMemory-Lite">ThothMemory Lite</a></h3>
+      <p><b>Shared agent memory. One executable.</b></p>
+      <p>Local SQLite storage for project history, checkpoints, decisions, and handoffs across AI coding agents. Connects through MCP stdio, with no Docker or database server.</p>
       <p><code>Go</code> <code>MCP</code> <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
@@ -101,7 +101,7 @@ The same curiosity shows up in inference tools, security research, emulation, an
 
 | Domain | Projects & purpose |
 | :--- | :--- |
-| **AI & agent tooling** | [**Shu**](https://github.com/Lord1Egypt/Shu) — resource budgeting for local models. [**ThothMemory-Lite**](https://github.com/Lord1Egypt/ThothMemory-Lite) — a standalone SQLite memory service under development. [**Heka**](https://github.com/Lord1Egypt/Heka) — reusable operating conventions for coding agents. |
+| **AI & agent tooling** | [**Shu**](https://github.com/Lord1Egypt/Shu) — resource budgeting for local models. [**Heka**](https://github.com/Lord1Egypt/Heka) — reusable operating conventions for coding agents. |
 | **Blockchain & security** | [**Seshat**](https://github.com/Lord1Egypt/Seshat) — local smart-contract review and a SQLite findings archive. [**MaatEye**](https://github.com/Lord1Egypt/MaatEye) — heuristic contract scanning across EVM chains. [**elements-localnet**](https://github.com/Lord1Egypt/elements-localnet) — a Docker-based Elements development network. |
 | **Android & Linux** | [**ProotX**](https://github.com/Lord1Egypt/ProotX) — Linux environments on Android, built on UserLAnd and PRoot. [**Hydra-Emulator**](https://github.com/Lord1Egypt/Hydra-Emulator) — Android app workflows on Windows using Electron and Android emulator tooling. |
 | **Languages & algorithms** | [**combinatorial-forge**](https://github.com/Lord1Egypt/combinatorial-forge) — C++ exact solvers for finite games and puzzles, with reproducibility artifacts. [**ThothTerm**](https://github.com/Lord1Egypt/ThothTerm) — a Rust desktop-terminal project with WezTerm-derived rendering components. |
